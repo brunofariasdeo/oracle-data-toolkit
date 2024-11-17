@@ -1,0 +1,6 @@
+{
+    "tables": {
+        "source_table": "healthcare_dataset",
+        "target_table": "healthcare_dataset_anonymized"
+    }
+}
